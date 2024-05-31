@@ -1,7 +1,7 @@
 import { Chilanka } from 'next/font/google';
-import Layout from '../components/layout';
+import Layout from '@/src/components/layout';
 import { Children } from 'react';
-import Navbar from '../components/layout';
+
 
 const Home = () => {
   return (

@@ -1,7 +1,7 @@
 module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/**/*.{js,ts,jsx,tsx}",
+    "./src/components/**/*.{js,ts,jsx,tsx}",
     // You can add more paths here if you have other directories where you use Tailwind CSS
   ],
   theme: {
